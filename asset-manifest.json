@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planilha-festa-gabriel/static/css/main.a640b5f3.css",
+    "main.js": "/planilha-festa-gabriel/static/js/main.374ee5c1.js",
+    "index.html": "/planilha-festa-gabriel/index.html",
+    "main.a640b5f3.css.map": "/planilha-festa-gabriel/static/css/main.a640b5f3.css.map",
+    "main.374ee5c1.js.map": "/planilha-festa-gabriel/static/js/main.374ee5c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a640b5f3.css",
+    "static/js/main.374ee5c1.js"
+  ]
+}
