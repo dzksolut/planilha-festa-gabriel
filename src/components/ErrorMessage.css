@@ -1,0 +1,12 @@
+.error-message {
+  margin-top: 16px;
+  padding: 16px 18px;
+  border: 1px solid rgba(248, 113, 113, 0.35);
+  background: rgba(244, 63, 94, 0.12);
+  border-radius: 18px;
+  color: #ffe3e9;
+}
+
+.error-message p {
+  margin: 0;
+}
